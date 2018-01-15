@@ -70,7 +70,7 @@
 		font-size: 14pt;
 		height: 60px;
 		width: 100%;
-		padding: 0px 25px 5px 25px !important;
+		padding: 0px 25px !important;
 		margin-top: 400px;
 		transition: all .3s ease-in-out !important;
 	}
