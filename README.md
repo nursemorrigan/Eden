@@ -92,7 +92,7 @@ Disclaimer
 
 <span>Source of the illustrations used.</span>
 <ol>
-<li><a href="https://www.pixiv.net/member.php?id=12363124">Moyazou (もや造)</a>
+<li><a href="https://www.pixiv.net/member.php?id=14314809">Luode Huayuan (罗德花园)</a>
 <li><a href="https://www.flickr.com/photos/megane_wakui">Masashi Wakui</a></li>
 </ol>
 
