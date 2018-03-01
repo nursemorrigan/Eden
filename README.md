@@ -1,6 +1,6 @@
 # Eden
 
-![screenshot](https://s1.gifyu.com/images/Screenshot-1243.png)
+<img src="preview_eden.png" width="100%">
 
 [Live Demo](https://catgrills.github.io/Eden/) of <i>Eden</i>.
 
