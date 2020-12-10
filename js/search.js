@@ -21,10 +21,10 @@ function search(query){
             query.replaceChars(" ", "+");
             break;
 
-        case "-w":
+        case "-d":
             query = query.substr(3);
             window.location =
-            "https://en.wikipedia.org/w/index.php?search=" +
+            "https://danbooru.donmai.us/posts?tags=" +
             query.replaceChars(" ", "%20");
             break;
 
